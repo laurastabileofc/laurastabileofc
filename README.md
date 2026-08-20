@@ -103,7 +103,6 @@ sistema:
 
 <img src="https://raw.githubusercontent.com/laurastabileofc/laurastabileofc/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<sub>⚡ Animação gerada automaticamente via GitHub Actions — veja instruções de configuração no final deste arquivo.</sub>
 
 </div>
 
