@@ -24,19 +24,14 @@
 ```yaml
 sistema:
   nome: "Laura Stabile"
-  funcao: "Estudante de Tecnologia | Dev Front-end & Back-end"
+  funcao: "Estudante de Análise e Desenvolvimento de Sistemas"
   instituicao: "IFMS — Instituto Federal de Mato Grosso do Sul"
   foco_atual:
     - "Algoritmos & Programação Orientada a Objetos"
     - "Banco de Dados & Modelagem"
     - "Desenvolvimento Web Full Stack"
     - "Virtualização & Containers"
-  projeto_paralelo: "Prototipação UX — Plano Integrado de Saúde Digital (GT5/UFMS)"
   linguagem_humana: "pt-BR"
-  interesses:
-    - "Interfaces futuristas & design system"
-    - "Construção de produtos do zero"
-    - "UI/UX orientado a dados"
   status: "Sempre aprendendo algo novo >> /dev/null"
 ```
 
