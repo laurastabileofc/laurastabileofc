@@ -65,7 +65,6 @@ sistema:
 |:--|:--|
 | 💻 **Editor / IDE** | ![VSCode](https://img.shields.io/badge/VS_Code-10002b?style=flat-square&logo=visualstudiocode&logoColor=9d4edd) |
 | 🔀 **Versionamento** | ![GitHub](https://img.shields.io/badge/GitHub-10002b?style=flat-square&logo=github&logoColor=ff5da2) |
-| 📡 **API / Testes** | ![Postman](https://img.shields.io/badge/Postman-10002b?style=flat-square&logo=postman&logoColor=14919b) |
 
 </div>
 
